@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/dev/WORKSPACE/C_C++/2018.08/project2/build",
+  "command": "D:\\dev\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\my_cmake_swap.dir\\main.cpp.obj -c D:\\dev\\WORKSPACE\\C_C++\\2018.08\\project2\\main.cpp",
+  "file": "D:/dev/WORKSPACE/C_C++/2018.08/project2/main.cpp"
+},
+{
+  "directory": "D:/dev/WORKSPACE/C_C++/2018.08/project2/build",
+  "command": "D:\\dev\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\my_cmake_swap.dir\\swap.cpp.obj -c D:\\dev\\WORKSPACE\\C_C++\\2018.08\\project2\\swap.cpp",
+  "file": "D:/dev/WORKSPACE/C_C++/2018.08/project2/swap.cpp"
+}
+]
