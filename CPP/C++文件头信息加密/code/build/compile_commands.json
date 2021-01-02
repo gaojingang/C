@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/dev/WORKSPACE/C_C++/2018.08/project2/build",
+  "command": "D:\\dev\\mingw64\\bin\\g++.exe  @CMakeFiles/outProject.dir/includes_CXX.rsp -g -o CMakeFiles\\outProject.dir\\009FileRead\\binWrite03.cpp.obj -c D:\\dev\\WORKSPACE\\C_C++\\2018.08\\project2\\009FileRead\\binWrite03.cpp",
+  "file": "D:/dev/WORKSPACE/C_C++/2018.08/project2/009FileRead/binWrite03.cpp"
+}
+]

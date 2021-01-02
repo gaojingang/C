@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/dev/WORKSPACE/C_C++/2018.08/project2/009FileRead/binWrite03.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+cstring
+-
+openssl/md5.h
+-
+
+D:/dev/lib/openssl-1.1/x86/include/openssl/e_os2.h
+openssl/opensslconf.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+D:/dev/lib/openssl-1.1/x86/include/openssl/md5.h
+openssl/opensslconf.h
+-
+openssl/e_os2.h
+-
+stddef.h
+-
+
+D:/dev/lib/openssl-1.1/x86/include/openssl/opensslconf.h
+openssl/opensslv.h
+-
+
+D:/dev/lib/openssl-1.1/x86/include/openssl/opensslv.h
+
